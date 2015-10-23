@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'Programa que calcule la propina de una cuenta a pagar'
+4
+1
+8
+'Cuenta'
+5
+1
+2
+N1
+4
+1
+9
+'Propina'
+6
+1
+2
+R1
+8
+N1*0.10 
+4
+1
+20
+'Total de la cuenta'
+4
+1
+29
+'La propina en tontal es', R1
+6
+1
+2
+T1
+5
+N1+R1
+4
+1
+20
+'Número de personas'
+5
+1
+2
+N2
+6
+1
+3
+TPP
+5
+T1/N2
+4
+1
+22
+'El resultado es', TPP
+1
